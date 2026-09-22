@@ -1,6 +1,6 @@
 streamlit
-tensorflow
-numpy
+tensorflow==2.15.1
+numpy<2
 pandas
 pillow
 folium
