@@ -1,1 +1,7 @@
-
+streamlit
+tensorflow
+numpy
+pandas
+pillow
+folium
+streamlit-folium
