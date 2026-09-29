@@ -1,7 +1,7 @@
-streamlit
-tensorflow==2.21.0
-numpy
-pandas
-pillow
-folium
-streamlit-folium
+streamlit>=1.40,<2
+tensorflow-cpu==2.15.1
+numpy<2
+pillow>=10,<12
+pandas>=2,<3
+folium>=0.16,<1
+streamlit-folium>=0.20,<1
